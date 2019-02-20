@@ -1,11 +1,13 @@
 function Mostrar()
 {
 //tomo el mes 
-var mesDelAño = document.getElementById('mes').value;
+var mesDelAnio = document.getElementById('mes').value;
 
-alert (mesDelAño);
+alert (mesDelAnio);
 
+var mes;
 
+switch ()
 
 
 }//FIN DE LA FUNCIÓN
