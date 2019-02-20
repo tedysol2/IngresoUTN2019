@@ -10,5 +10,31 @@ E.	Si el importe final con descuento suma más de $120  se debe sumar un 10% de 
  */
 function CalcularPrecio () 
 {
- 	
-}
+ 	var precio = 35;
+    var descuento;
+    var precioConDescuento;
+    var importeFinal;
+    var Cantidad;
+    var marca;
+
+cantidad = parseint(document.getElementById ("cantidad").value);
+marca = document.getElementById("Marca").value;
+
+    if (cantidad >= 6) {
+        descuento = precio * 50 / 100;
+	}
+	else if(cantidad ==5)
+	{
+    else if (cantidad == 4) 
+    }
+	else if (cantidad == 3)
+	{
+    else{
+		descuento=0
+	}
+	precioConDescuento = precio - descuento;
+
+	descuento = precio * descuento % 100 ;
+
+    alert (importe final )
+	}
