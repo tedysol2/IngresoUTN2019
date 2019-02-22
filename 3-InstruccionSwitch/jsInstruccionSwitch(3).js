@@ -18,7 +18,7 @@ switch (mesDelAnio) {
     case "Abril":
     case "Mayo":
     case "Junio":
-    case "julio":
+    case "Julio":
     case "Agosto":
     case "septiembre":
     case "Octubre":
